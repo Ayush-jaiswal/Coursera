@@ -63,3 +63,9 @@ background-color: #512da8;
 #nonsmoking{
     box-shadow: 1px 1px 8px green;
 }
+
+#carouselButton{
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
